@@ -7,7 +7,7 @@ package contatore;
 
 /**
  *
- * @author gabbo
+ * @author Gabriele Romoli
  */
 public class Contatore {
 public int c;
