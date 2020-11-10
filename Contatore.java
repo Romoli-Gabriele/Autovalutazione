@@ -7,10 +7,13 @@ package contatore;
 
 /**
  *
+<<<<<<< HEAD
  * @author Gabriele Romoli
+=======
+ * @author gabbo quello vero
+>>>>>>> FIX_BUG
  */
-public class Contatore {
-public int c;
+
     /**
      * @param args the command line arguments
      */
