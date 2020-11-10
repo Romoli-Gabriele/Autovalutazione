@@ -7,7 +7,7 @@ package contatore;
 
 /**
  *
- * @author gabbo
+ * @author gabbo quello vero
  */
 
     /**
