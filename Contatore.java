@@ -9,8 +9,7 @@ package contatore;
  *
  * @author gabbo
  */
-public class Contatore {
-public int c;
+
     /**
      * @param args the command line arguments
      */
